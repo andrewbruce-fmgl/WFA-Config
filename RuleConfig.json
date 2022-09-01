@@ -1,5 +1,5 @@
 {
-	"Version": 3,
+	"Version": 3.1,
 	"Rules": [
 		{
 			"RuleId": "MA-DBP-028",
@@ -57,7 +57,7 @@
 					"Value":"3"
 				}
 			],
-			"ErrorLevel": null
+			"ErrorLevel": "Info"
 		},
 		{
 			"RuleId": "ST-DBP-020",
